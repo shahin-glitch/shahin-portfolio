@@ -7,18 +7,12 @@
 A premium personal portfolio built with modern frontend technologies, smooth animations, and a clean UI to showcase projects, skills, and experience.
 
 <p>
-  <a href="https://shan-portfolioo.netlify.app">
-    <img src="https://img.shields.io/badge/🌐_Live_Demo-Visit_Website-00C853?style=for-the-badge" />
+  <a href="">
+    <img src="" />
   </a>
 
   <!-- Update the link at last -->
-  <a href="https://github.com/shahin-glitch/shahin-portfolio">
-    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" />
-  </a>
-  <img src="https://img.shields.io/github/stars/shajith23/shan-portfolio?style=for-the-badge" />
-  <img src="https://img.shields.io/github/forks/shajith23/shan-portfolio?style=for-the-badge" />
-  <img src="https://img.shields.io/github/license/shajith23/shan-portfolio?style=for-the-badge" />
-</p>
+  
 
 </div>
 
@@ -30,11 +24,11 @@ A premium personal portfolio built with modern frontend technologies, smooth ani
 
 ### 🔗 Live Website
 
-**https://shan-portfolioo.netlify.app**
+****
 
 ### 💻 GitHub Repository
 
-**https://github.com/shajith23/shan-portfolio**
+****
 
 ---
 
@@ -171,13 +165,13 @@ shan-portfolio/
 Clone the repository
 
 ```bash
-git clone https://github.com/shajith23/shan-portfolio.git
+git clone https://github.com/shahin-glitch/shahin-portfolio.git
 ```
 
 Open project
 
 ```bash
-cd shan-portfolio
+cd shahin-portfolio
 ```
 
 ---
@@ -241,7 +235,7 @@ git commit -m "Initial Commit"
 
 git branch -M main
 
-git remote add origin https://github.com/shajith23/shan-portfolio.git
+git remote add origin https://github.com/shahin-glitch/shahin-portfolio.git
 
 git push -u origin main
 ```
@@ -384,15 +378,13 @@ This project is available for personal and commercial portfolio use.
 
 # 👨‍💻 Developer
 
-**Shajith (Shan)**
-
+**Shahin**
 ### Portfolio
 
-https://shan-portfolioo.netlify.app
 
 ### GitHub
 
-https://github.com/shajith23
+https://github.com/shahin-glitch
 
 ---
 
@@ -400,6 +392,6 @@ https://github.com/shajith23
 
 ### ⭐ If you like this project, don't forget to Star the Repository!
 
-Made with ❤️ by **Shajith**
+Made with ❤️ by **shahin**
 
 </div>
